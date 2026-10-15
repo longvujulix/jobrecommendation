@@ -1,0 +1,65 @@
+{
+  "companies": 478,
+  "reviewed_companies": 180,
+  "reviews": 8417,
+  "recommend_labels": {
+    "Yes": 7385,
+    "No": 1032
+  },
+  "duplicate_company_ids": 0,
+  "empty_company_documents": 1,
+  "empty_review_documents": 0,
+  "missing_company_fields": {
+    "id": 0,
+    "Company Name": 0,
+    "Company Type": 0,
+    "Company industry": 15,
+    "Company size": 0,
+    "Country": 0,
+    "Working days": 2,
+    "Overtime Policy": 31,
+    "Company overview": 0,
+    "Our key skills": 157,
+    "Why you'll love working here": 99,
+    "Location": 0,
+    "Href": 0
+  },
+  "missing_review_fields": {
+    "id": 0,
+    "Company Name": 0,
+    "Cmt_day": 0,
+    "Title": 0,
+    "What I liked": 1,
+    "Suggestions for improvement": 5,
+    "Rating": 0,
+    "Salary & benefits": 0,
+    "Training & learning": 0,
+    "Management cares about me": 0,
+    "Culture & fun": 0,
+    "Office & workspace": 0,
+    "Recommend?": 0
+  },
+  "overview_rows": 478,
+  "rating_by_recommend": {
+    "1": {
+      "No": 122,
+      "Yes": 2
+    },
+    "2": {
+      "No": 410,
+      "Yes": 39
+    },
+    "3": {
+      "No": 413,
+      "Yes": 1225
+    },
+    "4": {
+      "No": 73,
+      "Yes": 2623
+    },
+    "5": {
+      "No": 14,
+      "Yes": 3496
+    }
+  }
+}

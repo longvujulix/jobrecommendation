@@ -1,0 +1,244 @@
+{
+  "company_count": 478,
+  "sklearn_features": 9891,
+  "gensim_features": 4117,
+  "mean_top5_overlap": 0.5740585774058576,
+  "mean_rank_spearman": 0.9777432335753748,
+  "examples": [
+    {
+      "company": "1BITLAB Technology",
+      "sklearn": [
+        {
+          "company": "CÔNG TY CỔ PHẦN CÔNG NGHỆ BEKISOFT",
+          "score": 0.2112
+        },
+        {
+          "company": "AWING",
+          "score": 0.1766
+        },
+        {
+          "company": "MBAMC",
+          "score": 0.1766
+        },
+        {
+          "company": "CÔNG TY CỔ PHẦN REMOBPO",
+          "score": 0.1631
+        },
+        {
+          "company": "KIS Việt Nam",
+          "score": 0.1576
+        }
+      ],
+      "gensim": [
+        {
+          "company": "CÔNG TY CỔ PHẦN CÔNG NGHỆ BEKISOFT",
+          "score": 0.2815
+        },
+        {
+          "company": "KIS Việt Nam",
+          "score": 0.2543
+        },
+        {
+          "company": "Extreme Việt Nam",
+          "score": 0.2456
+        },
+        {
+          "company": "MBAMC",
+          "score": 0.2281
+        },
+        {
+          "company": "Vareal Vietnam Co., Ltd",
+          "score": 0.2234
+        }
+      ]
+    },
+    {
+      "company": "1test",
+      "sklearn": [
+        {
+          "company": "Trustify Technology",
+          "score": 0.122
+        },
+        {
+          "company": "Pixelz",
+          "score": 0.1116
+        },
+        {
+          "company": "SELLER SUCCESS COMMERCE COMPANY LIMITED",
+          "score": 0.1092
+        },
+        {
+          "company": "CDEX",
+          "score": 0.1022
+        },
+        {
+          "company": "PAVE",
+          "score": 0.093
+        }
+      ],
+      "gensim": [
+        {
+          "company": "Koidra Tech",
+          "score": 0.1228
+        },
+        {
+          "company": "Pixelz",
+          "score": 0.1107
+        },
+        {
+          "company": "CDEX",
+          "score": 0.1021
+        },
+        {
+          "company": "SELLER SUCCESS COMMERCE COMPANY LIMITED",
+          "score": 0.1018
+        },
+        {
+          "company": "HRS Group",
+          "score": 0.0851
+        }
+      ]
+    },
+    {
+      "company": "52 Entertainment",
+      "sklearn": [
+        {
+          "company": "Cloud Technology",
+          "score": 0.1168
+        },
+        {
+          "company": "SCC Vietnam",
+          "score": 0.1134
+        },
+        {
+          "company": "Bacoor Vietnam",
+          "score": 0.1132
+        },
+        {
+          "company": "Phoenix Unity",
+          "score": 0.111
+        },
+        {
+          "company": "Trobz",
+          "score": 0.1077
+        }
+      ],
+      "gensim": [
+        {
+          "company": "QUANTICO GAMES",
+          "score": 0.1962
+        },
+        {
+          "company": "Gameloft",
+          "score": 0.1887
+        },
+        {
+          "company": "SCC Vietnam",
+          "score": 0.1533
+        },
+        {
+          "company": "ekino Vietnam",
+          "score": 0.1442
+        },
+        {
+          "company": "ANTADA",
+          "score": 0.1325
+        }
+      ]
+    },
+    {
+      "company": "8Seneca",
+      "sklearn": [
+        {
+          "company": "Tinai",
+          "score": 0.333
+        },
+        {
+          "company": "Gene Solutions",
+          "score": 0.1948
+        },
+        {
+          "company": "TechVSI",
+          "score": 0.1718
+        },
+        {
+          "company": "Alliex Vietnam",
+          "score": 0.1659
+        },
+        {
+          "company": "Modern Coding",
+          "score": 0.152
+        }
+      ],
+      "gensim": [
+        {
+          "company": "Tinai",
+          "score": 0.2919
+        },
+        {
+          "company": "TechVSI",
+          "score": 0.1752
+        },
+        {
+          "company": "Modern Coding",
+          "score": 0.1518
+        },
+        {
+          "company": "Gene Solutions",
+          "score": 0.1513
+        },
+        {
+          "company": "Spartan Dev Inc",
+          "score": 0.1485
+        }
+      ]
+    },
+    {
+      "company": "Accenture",
+      "sklearn": [
+        {
+          "company": "Capgemini Vietnam",
+          "score": 0.1417
+        },
+        {
+          "company": "SkyLab",
+          "score": 0.141
+        },
+        {
+          "company": "HCL Vietnam Company Limited",
+          "score": 0.141
+        },
+        {
+          "company": "Ingenico Vietnam",
+          "score": 0.139
+        },
+        {
+          "company": "MEGAZONE",
+          "score": 0.1348
+        }
+      ],
+      "gensim": [
+        {
+          "company": "MEGAZONE",
+          "score": 0.201
+        },
+        {
+          "company": "Capgemini Vietnam",
+          "score": 0.1822
+        },
+        {
+          "company": "SkyLab",
+          "score": 0.167
+        },
+        {
+          "company": "Innotech Vietnam Corporation",
+          "score": 0.1571
+        },
+        {
+          "company": "NashTech",
+          "score": 0.155
+        }
+      ]
+    }
+  ]
+}

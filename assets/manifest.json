@@ -1,0 +1,21 @@
+{
+  "models/recommender.joblib": "5e678e8f7fbbd6c2abcfe343d5190e1f3b3895d3c03b2b84d2990b30250b9099",
+  "models/classifier.joblib": "46a69b767a31e661a981ae837b23a6d8cc4c39dae692c0c3b029a4654f8497df",
+  "classification.json": "29b8773973efdeb9c879fc5c4199d1d034fac754695d5d92f5343aec686f787a",
+  "recommendation.json": "da886dd5409b6fcbb1c7597b15a4d0cba3b3f8fcd31f0edbc4bcddbf34fc3747",
+  "eda.json": "50800ea1731c4474711d1c1f2b2badbe22ca77a444c19aa9bb9f3efa29fd8b27",
+  "images/confusion_matrix.png": "5b297b9a63917264906f6baf66fa12ac4e57a9410e034c307961ad946bcd7e08",
+  "images/eda.png": "a993d70342ea3a192058e9f4aca38d39957299a7c7d5e7092bb881df8003d9f7",
+  "images/compare_sklearn_gensim.png": "4084d29f92913e1221ef4f7508e85360c87dc8882bad616efeb36b3123b2d80d",
+  "images/wordcloud_recommend.png": "205cc4606d99123b02fed7b4fad0f8449a1e0614ace0f379c062871502e47287",
+  "images/method_evaluation_precision.png": "29d9954a9e9b8dab4144ac9b3cf2ee3d881865020d1731e62666c41c155e2b07",
+  "images/feature_importance_spark.png": "524d04f35885f8e22dc624682b0f4b91524cacc42f0a71c2ffe1ace97d11a5cc",
+  "images/model_selection.png": "092812ee81485b1d63799806efba02ee1b793310ac5e74d9ba64d8c52305f3dd",
+  "images/feature_importance_sklearn.png": "069f1eabe789730df30cd273df866b889895cd031263edd3cded6dc7b55decc9",
+  "images/imbalance_comparison.png": "3fd9643a6a82715a3caf790ee50472677ab7de3808a283933af22ab4d726853e",
+  "images/roc_curve.png": "dfffba5f5c4d926632d0411f900b1ac3ca3100604bc35c69eb54f0dc86eb5ddd",
+  "images/roc_curve_linearsvc_gbt.png": "86bc531fdf273380fd2acce2062a86195d7733440007efe0ac2e2380fa986e95",
+  "images/confusion_matrix_linearsvc_gbt.png": "aeaacde60792215f3ebcb4b87d50de8f97594e49aa8831058f6b85b13982ac33",
+  "images/feature_importance_linearsvc.png": "d47291e0406b19ca20922b8a1db06c82d0b353d0586bd970796049a38344a36d",
+  "companies.parquet": "3f3829c620f19f247dbbbe013bb9a37adb34f19fdf45f76b842f88ac7072df10"
+}
